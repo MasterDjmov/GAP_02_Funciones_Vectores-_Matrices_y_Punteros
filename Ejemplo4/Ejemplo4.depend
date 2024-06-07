@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717722516 source:/home/djmov/Respaldo2023/Repositorio/GAP_02_Funciones_Vectores-_Matrices_y_Punteros/Ejemplo4/main.c
+	<stdio.h>
+	<stdbool.h>
+

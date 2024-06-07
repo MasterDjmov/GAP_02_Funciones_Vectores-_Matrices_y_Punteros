@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1717639943 source:/home/djmov/Respaldo2023/Repositorio/GAP_02_Funciones_Vectores-_Matrices_y_Punteros/Ejemplo1/Ejemplo1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1717687882 source:/home/djmov/Respaldo2023/Repositorio/GAP_02_Funciones_Vectores-_Matrices_y_Punteros/Ejemplo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
